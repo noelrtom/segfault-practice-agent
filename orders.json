@@ -1,0 +1,5 @@
+{
+  "ORD-101": {"customer": "Aarav", "item": "Wireless Mouse", "amount": 1200, "status": "In Transit", "days_since_delivery": 0},
+  "ORD-102": {"customer": "Diya", "item": "Mechanical Keyboard", "amount": 3500, "status": "Delivered", "days_since_delivery": 2},
+  "ORD-103": {"customer": "Rohan", "item": "USB-C Hub", "amount": 900, "status": "Delivered", "days_since_delivery": 25}
+}

@@ -32,7 +32,7 @@ Customer Ticket ──► Gemini Agent (Read-Only Tools) ──► Human Approva
 ## 3. Repository Structure
 
 ```
-shopassist-mini/
+segfault-practice-agent/
 ├── orders.json        # Flat-file order database
 ├── tools_db.py        # Read-only order lookup tool
 ├── tools_policy.py    # Deterministic refund policy check & human-triggered refund executor
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 1. Generate a free API key at [Google AI Studio](https://aistudio.google.com/apikey).
 
-2. Create a `.env` file in the root of `shopassist-mini`:
+2. Create a `.env` file in the root of `segfault-practice-agent`:
 
    ```
    GEMINI_API_KEY=your_actual_api_key_here

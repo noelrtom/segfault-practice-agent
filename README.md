@@ -63,8 +63,8 @@ The codebase is decoupled around three agreed function interfaces:
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/shopassist-mini.git
-cd shopassist-mini
+git clone https://github.com/YOUR_USERNAME/segfault-practice-agent.git
+cd segfault-practice-agent
 
 
 ```
